@@ -39,6 +39,6 @@ use fn.if{
 if is_18 :: | <
 fnint('you can enter')
 else
-fnint ('You can't enter')
+fnint ('You cant enter')
 >;
 };
