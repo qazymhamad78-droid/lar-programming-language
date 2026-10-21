@@ -1,5 +1,6 @@
 # lar-programming-language
 my programming language
+to run a lar code go inside terminal install python3 then download lar.py now go to the terminal locate where you downloaded lar.py make a new file you can call anything but make sure it has a file extension is .lr then in the terminal run this command "python lar.py filename.lr" that's how to run lar code
 print hello world at programming language you can either use the fnint('hi') or the or the other way is to do this below 
        |
        |
